@@ -7,3 +7,5 @@ print("Nice to know you are", old, "years old!")
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### runtime error
